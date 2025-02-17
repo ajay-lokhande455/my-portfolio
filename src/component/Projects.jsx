@@ -63,9 +63,9 @@ const Projects = () => {
         />
 
         <div className="grid absolute grid-cols-3 z-50 gap-10 w-full px-15 bottom-9 ">
-          <div className="relative rounded-4xl border border-white shadow-md backdrop-blur-sm bg-white/6  h-90 overflow-hidden "></div>
-          <div className="relative rounded-4xl border border-white shadow-md backdrop-blur-sm bg-white/6  h-90 overflow-hidden"></div>
-          <div className="relative rounded-4xl border border-white shadow-md backdrop-blur-sm bg-white/6   h-90 overflow-hidden"></div>
+          <div className="relative rounded-4xl border border-white hover:bg-orange-400 shadow-md backdrop-blur-sm bg-white/6  h-90 overflow-hidden "></div>
+          <div className="relative rounded-4xl border border-white hover:bg-orange-400 shadow-md backdrop-blur-sm bg-white/6  h-90 overflow-hidden"></div>
+          <div className="relative rounded-4xl border border-white  hover:bg-orange-400 shadow-md backdrop-blur-sm bg-white/6   h-90 overflow-hidden"></div>
         </div>
 
       </div>
